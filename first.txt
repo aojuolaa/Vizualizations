@@ -1,0 +1,4 @@
+Reseting all options
+To reset all chart options, use None.
+
+This is useful in development when you are testing styles by adding and removing them. Unless you restart the kernel, an option remains attached to the chart unless an option is set to None, or all chart options values are individually wiped out.
